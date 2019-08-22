@@ -1,29 +1,15 @@
-[
-    {
-		"url": "https://cf2.s3.souqcdn.com/item/2018/05/30/34/56/51/91/item_XXL_34565191_138114988.jpg",
-		"name": "HP Laptop",
-		"price_formatted": "$295.00",
-		"brand": "Hp",
-		"discount_price_formatted": "$119.00",
-		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "https://cf2.s3.souqcdn.com/item/2018/05/30/34/56/51/91/item_XXL_34565191_138114988.jpg"
-	},
-	{
-		"url": "http://cz.bfashion.com/na-podpatku/jennika-lodi%C4%8Dky-jennika-3155",
-		"name": "Pumps",
-		"price_formatted": "$295.00",
-		"brand": "JENNIKA",
-		"discount_price_formatted": "$119.00",
-		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "https://cf2.s3.souqcdn.com/item/2018/05/30/34/56/51/91/item_XXL_34565191_138114988.jpg"
-	},
-	{
-		"url": "http://cz.bfashion.com/bundy/kab%C3%A1t-rip-curl-4028",
-		"name": "Coat Rip Curl",
-		"price_formatted": "$3,500.00",
-		"discount_price_formatted": "$1,549.00",
-		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "https://cf2.s3.souqcdn.com/item/2018/05/30/34/56/51/91/item_XXL_34565191_138114988.jpg"
-	}
-
-]
+    
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
