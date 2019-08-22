@@ -2,55 +2,58 @@
 {
   "products": [
 {
-		"url": "https://google.com",
-		"name": "Google",
+		"url": "https://cf4.s3.souqcdn.com/item/2019/02/06/44/77/70/96/item_XXL_44777096_44c9b7d11b7f0.jpg",
+		"name": "Gaming Mouse",
 		"price_formatted": "$295.00",
-		"brand": "Google",
+		"brand": "Mouse",
 		"discount_price_formatted": "$119.00",
 		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+		"main_image": "https://cf4.s3.souqcdn.com/item/2019/02/06/44/77/70/96/item_XXL_44777096_44c9b7d11b7f0.jpg"
 	},
 	{
 		"url": "http://cz.bfashion.com/na-podpatku/jennika-lodi%C4%8Dky-jennika-3155",
 		"name": "Pumps",
 		"price_formatted": "$295.00",
-		"brand": "JENNIKA",
+		"category": "Mobile",
 		"discount_price_formatted": "$119.00",
 		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "http://img.bfashion.com/products/presentation/1023dc979f5e98c34c202a6f82a3af3ab6feeda4.jpg"
+		"main_image": "https://cf3.s3.souqcdn.com/item/2019/01/20/43/73/52/19/item_XXL_43735219_d57f2079fff66.jpg"
 	},
 	{
-		"url": "http://cz.bfashion.com/bundy/kab%C3%A1t-rip-curl-4028",
-		"name": "Coat Rip Curl",
-		"price_formatted": "$3,500.00",
+		"url": "https://cf5.s3.souqcdn.com/item/2018/09/06/38/27/07/86/item_XXL_38270786_148477999.jpg",
+		"name": "Keyboard",
+		"price_formatted": "$350",
+		"category": "Keyboard",
 		"discount_price_formatted": "$1,549.00",
 		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "http://img.bfashion.com/products/presentation/52f0ac15efa124aa22593593567a0a410f4f9706.jpg"
+		"main_image": "https://cf5.s3.souqcdn.com/item/2018/09/06/38/27/07/86/item_XXL_38270786_148477999.jpg"
 	},
 	{
-		"url": "http://cz.bfashion.com/bundy/kr%C3%A1tk%C3%A1-kostkovan%C3%A1-d%C3%A1msk%C3%A1-bunda-sarah-4036",
+		"url": "https://cf3.s3.souqcdn.com/item/2019/02/24/46/00/23/42/item_XXL_46002342_11f0761b3e553.jpg",
 		"name": "Short plaid jacket ladies Sarah",
 		"price_formatted": "$3,800.00",
 		"discount_price_formatted": "$1,699.00",
+		"category": "Mobile",
 		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "http://img.bfashion.com/products/presentation/2478725b91a8a21fab6ab87cf12634b3e71a1b75.jpg"
+		"main_image": "https://cf3.s3.souqcdn.com/item/2019/02/24/46/00/23/42/item_XXL_46002342_11f0761b3e553.jpg"
 	},
 	{
-		"url": "http://cz.bfashion.com/kozacky/koza%C4%8Dky-megy-bellucci-milano-4465",
-		"name": "Boots Megy",
+		"url": "https://cf5.s3.souqcdn.com/item/2013/09/12/57/55/94/3/item_XXL_5755943_2937543.jpg",
+		"name": "Bag",
 		"price_formatted": "$1,295.00",
-		"brand": "BELLUCCI Milano",
+		"category": "Bag",
 		"discount_price_formatted": "$619.00",
 		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "http://img.bfashion.com/products/presentation/7bc3d7835f1860cb214162d7757790b439e0fc91.jpg"
+		"main_image": "https://cf5.s3.souqcdn.com/item/2013/09/12/57/55/94/3/item_XXL_5755943_2937543.jpg"
 	},
 	{
 		"url": "http://cz.bfashion.com/halenky-s-dlouh%C3%BDm-ruk%C3%A1vem/halenka-jasmin",
 		"name": "Blouse Jasmin",
 		"price_formatted": "$349.00",
 		"discount_price_formatted": "$349.00",
+		"category": "Mobile",
 		"description": "You can add a description of the product to the feed and it will appear exactly here.",
-		"main_image": "http://img.bfashion.com/products/presentation/565df415973524cd7913b9857846df2117850baf.jpg"
+		"main_image": "https://cf4.s3.souqcdn.com/item/2018/01/30/24/05/14/35/item_XXL_24051435_102956436.jpg"
 	}
   ],
   "comments": [
